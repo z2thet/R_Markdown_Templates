@@ -7,7 +7,7 @@ PDF, Word, and Powerpoint templates for Moffitt reports
 
 ```r
 # Installing from GitHub
-remotes::install_git("https://github.com/z2thet/MoffittFunctions", build_opts = NULL)
+remotes::install_git("https://github.com/z2thet/R_Markdown_Templates", build_opts = NULL)
 
 ```
 
